@@ -17,12 +17,11 @@ class CuboidMaker{
   }
 
 
-
     // step 2 Volume Method
 
     volume() {
       return this.length * this.width * this.height;
-    };
+    }
 
     // step 3 Surface Area Method
 
@@ -30,7 +29,7 @@ class CuboidMaker{
       return 2 * (this.length * this.width + this.length * this.height + this.width * this.height);
     }
 
-
+}
     // Step 4
 const cuboid = new CuboidMaker({
       length: 4,
