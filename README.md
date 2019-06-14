@@ -52,7 +52,8 @@ Explicit Binding- states when call, apply and bind methods are used, "this" is e
 
 
 5. Why do we need super() in an extended class?
-because it gives us access an the ability to utilize parent properties  in  he extended class
+
+because it gives us access an the ability to utilize parent properties  in  the extended class
 
 ## Project Set up
 
